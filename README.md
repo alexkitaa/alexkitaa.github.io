@@ -11,7 +11,4 @@ Welcome to the source code for my personal portfolio website (`alexkitaa.github.
 ## 🚀 About Me
 
 I am an **Operational Technology (OT) & Industrial Control Systems (ICS) Security Analyst** with a strong foundation in critical infrastructure defense across Purdue Model levels (L0–L5) using frameworks such as **IEC 62443, NIST SP 800-82, and MITRE ATT&CK for ICS**. 
-
-My core focus centers on industrial protocol analysis (Modbus TCP, EtherNet/IP, OPC UA, DNP3, PROFINET), deep packet inspection (Zeek, Wireshark), and building resilient, deterministic systems that prioritize human safety and process availability.
-
 ---
