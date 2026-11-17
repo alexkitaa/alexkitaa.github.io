@@ -393,18 +393,18 @@
                     </div>
                 </div>
                 <div class="contact-form-container">
-                    <form id="contact-form">
+                    <form id="contact-form" action="mailto:kitaa.alex@gmail.com" method="POST" enctype="text/plain">
                         <div class="form-group">
-                            <input type="text" id="name" placeholder="Your Name" required>
+                            <input type="text" id="name" name="Name" placeholder="Your Name" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" id="email" placeholder="Your Email" required>
+                            <input type="email" id="email" name="Email" placeholder="Your Email" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" id="subject" placeholder="Subject" required>
+                            <input type="text" id="subject" name="Subject" placeholder="Subject" required>
                         </div>
                         <div class="form-group">
-                            <textarea id="message" placeholder="Your Message" required></textarea>
+                            <textarea id="message" name="Message" placeholder="Your Message" required></textarea>
                         </div>
                         <button type="submit" class="btn primary-btn">Send Message</button>
                     </form>
